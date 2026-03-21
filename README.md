@@ -8,11 +8,12 @@ A collection of structured, beginner-friendly Python learning materials designed
 
 | # | Topic | View Notebook |
 |---|-------|--------------|
-| 1 | Fundamental Programming Concepts | [📘 Open notebook](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/fundamental_programming_concepts.ipynb) |
-| 2 | Program Logic and Control Flow | [📗 Open notebook](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/program_logic_and_control_flow.ipynb) |
-| 3 | Data Structures and Functions | [📙 Open notebook](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/data_structures_and_functions.ipynb) |
-| 4 | Understanding File Paths and File System Interactions | [📕 Open notebook](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/file_paths_and_file_system.ipynb) |
-| 5 | Working with Data — Using Pandas | [📓 Open notebook](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/working_with_data_pandas.ipynb) |
+| 1 | Fundamental Programming Concepts | [📘 Open notebook](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/fundamental_programming_concepts.ipynb) |
+| 2 | Program Logic and Control Flow | [📗 Open notebook](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/program_logic_and_control_flow.ipynb) |
+| 3 | Data Structures and Functions | [📙 Open notebook](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/data_structures_and_functions.ipynb) |
+| 4 | Understanding File Paths and File System Interactions | [📕 Open notebook](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/file_paths_and_file_system.ipynb) |
+| 5 | Working with Data — Using Pandas | [📓 Open notebook](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Data_literacy/working_with_data_pandas.ipynb) |
+| 5b | ↳ Practice Workbook — Real Student Data Analysis | [🔬 Open notebook](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Data_literacy/data_analysis_workbook.ipynb) |
 
 ---
 
@@ -24,11 +25,12 @@ Click any badge below to open that notebook instantly in **Google Colab** — no
 
 | Notebook | Open in Colab |
 |----------|--------------|
-| Topic 1 — Fundamental Programming Concepts | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/fundamental_programming_concepts.ipynb) |
-| Topic 2 — Program Logic and Control Flow | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/program_logic_and_control_flow.ipynb) |
-| Topic 3 — Data Structures and Functions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/data_structures_and_functions.ipynb) |
-| Topic 4 — File Paths and File System | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/file_paths_and_file_system.ipynb) |
-| Topic 5 — Working with Data — Using Pandas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/working_with_data_pandas.ipynb) |
+| Topic 1 — Fundamental Programming Concepts | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/fundamental_programming_concepts.ipynb) |
+| Topic 2 — Program Logic and Control Flow | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/program_logic_and_control_flow.ipynb) |
+| Topic 3 — Data Structures and Functions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/data_structures_and_functions.ipynb) |
+| Topic 4 — File Paths and File System | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/file_paths_and_file_system.ipynb) |
+| Topic 5 — Working with Data — Using Pandas | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Data_literacy/working_with_data_pandas.ipynb) |
+| Topic 5 Practice — Data Analysis Workbook | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Data_literacy/data_analysis_workbook.ipynb) |
 
 ---
 
@@ -42,10 +44,10 @@ Click any badge below to open that notebook instantly in **Google Colab** — no
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp.git
+git clone https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp.git
 
 # 2. Move into the project folder
-cd Cchub_Teens_AI_bootcamp
+cd cchub-AI_for_teens_bootcamp
 
 # 3. (Optional but recommended) Create a virtual environment
 python -m venv venv
@@ -59,7 +61,7 @@ pip install notebook
 jupyter notebook
 ```
 
-> A browser window will open. Click on any `.ipynb` file to start a notebook.
+> A browser window will open. Navigate into `Intro_to_Python/` or `Data_literacy/` and click any `.ipynb` file to start a notebook.
 
 ---
 
@@ -67,7 +69,7 @@ jupyter notebook
 
 1. Open VS Code and install the **Jupyter extension** (search in Extensions: `ms-toolsai.jupyter`).
 2. Clone or download the repository and open the folder in VS Code.
-3. Click any `.ipynb` file — it opens directly in VS Code.
+3. Navigate into `Intro_to_Python/` or `Data_literacy/` and click any `.ipynb` file — it opens directly in VS Code.
 4. Select a Python kernel from the top-right dropdown and run cells with **Shift + Enter**.
 
 ---
@@ -79,7 +81,7 @@ The notebooks are designed to be completed **in order** — each topic builds on
 ---
 
 ### 📘 Topic 1 — Fundamental Programming Concepts
-**File:** [`fundamental_programming_concepts.ipynb`](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/fundamental_programming_concepts.ipynb)
+**File:** [`Intro_to_Python/fundamental_programming_concepts.ipynb`](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/fundamental_programming_concepts.ipynb)
 
 **What you will learn:**
 - How to display information using `print()`
@@ -103,7 +105,7 @@ The notebooks are designed to be completed **in order** — each topic builds on
 ---
 
 ### 📗 Topic 2 — Program Logic and Control Flow
-**File:** [`program_logic_and_control_flow.ipynb`](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/program_logic_and_control_flow.ipynb)
+**File:** [`Intro_to_Python/program_logic_and_control_flow.ipynb`](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/program_logic_and_control_flow.ipynb)
 
 **What you will learn:**
 - How to perform calculations using arithmetic operators
@@ -128,7 +130,7 @@ The notebooks are designed to be completed **in order** — each topic builds on
 ---
 
 ### 📙 Topic 3 — Data Structures and Functions
-**File:** [`data_structures_and_functions.ipynb`](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/data_structures_and_functions.ipynb)
+**File:** [`Intro_to_Python/data_structures_and_functions.ipynb`](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/data_structures_and_functions.ipynb)
 
 **What you will learn:**
 - Why data structures exist and when to use each type
@@ -158,7 +160,7 @@ The notebooks are designed to be completed **in order** — each topic builds on
 ---
 
 ### 📕 Topic 4 — Understanding File Paths and File System Interactions
-**File:** [`file_paths_and_file_system.ipynb`](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/file_paths_and_file_system.ipynb)
+**File:** [`Intro_to_Python/file_paths_and_file_system.ipynb`](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Intro_to_Python/file_paths_and_file_system.ipynb)
 
 **What you will learn:**
 - How a computer's file system is organised (files, folders, paths)
@@ -188,7 +190,7 @@ The notebooks are designed to be completed **in order** — each topic builds on
 ---
 
 ### 📓 Topic 5 — Working with Data — Using Pandas
-**File:** [`working_with_data_pandas.ipynb`](https://github.com/Cchrisekwugum/Cchub_Teens_AI_bootcamp/blob/main/working_with_data_pandas.ipynb)
+**File:** [`Data_literacy/working_with_data_pandas.ipynb`](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Data_literacy/working_with_data_pandas.ipynb)
 
 **What you will learn:**
 - What pandas is and why it is the go-to tool for working with data in Python
@@ -220,31 +222,73 @@ The notebooks are designed to be completed **in order** — each topic builds on
 
 **End-of-topic project:** Bootcamp Performance Dashboard — loads the student dataset, cleans it, adds grade and performance columns, aggregates by school and city, and produces summary charts.
 
-> **Note:** Topic 5 creates a `data/` folder in the same directory as the notebook and saves `students.csv` there. This is expected — the file is the shared dataset used across all sections.
+> **Note:** Topic 5 saves a simulated `students.csv` into `Data_literacy/data/` when you run the notebook. This is expected — it is the shared dataset used across all sections of the notebook.
+
+---
+
+### 🔬 Topic 5 — Practice Workbook: Real Student Data Analysis
+> This workbook is a hands-on companion to `working_with_data_pandas.ipynb`. Complete Topic 5 first, then work through this to apply everything on a real dataset.
+
+**File:** [`Data_literacy/data_analysis_workbook.ipynb`](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Data_literacy/data_analysis_workbook.ipynb)
+**Dataset:** [`Data_literacy/data/Student_performance_data.csv`](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Data_literacy/data/Student_performance_data.csv) — 2,392 real student records
+**Data dictionary:** [`Data_literacy/data/student_data_dictionary.md`](https://github.com/Publica-AI/cchub-AI_for_teens_bootcamp/blob/main/Data_literacy/data/student_data_dictionary.md) — column definitions and value encodings
+
+**What you will learn:**
+- How to load and explore a real-world dataset using pandas
+- How to spot missing data and read summary statistics
+- How to count and compare groups using `.value_counts()` and `.groupby()`
+- How to create bar charts, line charts, and histograms using matplotlib
+- How to add titles, axis labels, grid lines, and reference lines to charts
+- How to ask data-driven questions and find answers with code
+
+**Sections at a glance:**
+
+| # | Section | Key Concepts |
+|---|---------|-------------|
+| 1 | Load the Data | `pd.read_csv()` |
+| 2 | First Peek | `.head()` |
+| 3 | Dataset Size | `.shape` |
+| 4 | Column Names | `.columns` |
+| 5 | Missing Data | `.isnull().sum()` |
+| 6 | Summary Statistics | `.describe()` |
+| 7 | Grade Distribution + Bar Chart | `.value_counts()`, `matplotlib` intro |
+| 8 | Study Time vs Grades | `.groupby().mean()`, bar chart |
+| 9 | Absences vs Grades | groupby, bar chart |
+| 10 | Tutoring Effect | groupby, `plt.ylim()`, `width` |
+| 11 | Sports, Music & Volunteering | filtering, loops |
+| 12 | Parental Support Trend | line chart, `plt.grid()` |
+| 13 | GPA Distribution | histogram, `plt.axvline()` |
+
+**Student challenges:** 4 independent tasks — from guided templates to a fully open-ended "design your own question" exercise.
+
+> **Note:** This workbook loads `Student_performance_data.csv` from the `Data_literacy/data/` subfolder. No extra downloads needed — the file is already in the repository.
 
 ---
 
 ## Repository Structure
 
 ```
-Cchub_Teens_AI_bootcamp/
+cchub-AI_for_teens_bootcamp/
 │
 ├── README.md                               ← You are here
+├── LICENSE
 │
-├── fundamental_programming_concepts.ipynb  ← Topic 1
-├── program_logic_and_control_flow.ipynb    ← Topic 2
-├── data_structures_and_functions.ipynb     ← Topic 3
-├── file_paths_and_file_system.ipynb        ← Topic 4
-├── working_with_data_pandas.ipynb          ← Topic 5
+├── Intro_to_Python/                        ← Topics 1–4
+│   ├── fundamental_programming_concepts.ipynb   ← Topic 1
+│   ├── program_logic_and_control_flow.ipynb     ← Topic 2
+│   ├── data_structures_and_functions.ipynb      ← Topic 3
+│   └── file_paths_and_file_system.ipynb         ← Topic 4
 │
-├── data/                                   ← Created automatically by Topic 5
-│   └── students.csv
-│
-└── sample_files/                           ← Created automatically by Topic 4
-    ├── students.txt
-    ├── results.txt
-    └── ...
+└── Data_literacy/                          ← Topic 5
+    ├── working_with_data_pandas.ipynb           ← Topic 5 main notebook
+    ├── data_analysis_workbook.ipynb             ← Topic 5 practice workbook
+    └── data/                                    ← Data folder
+        ├── Student_performance_data.csv         ← Real dataset (2,392 students) used in workbook
+        ├── student_data_dictionary.md           ← Column definitions and value encodings
+        └── students.csv                         ← Simulated dataset created when Topic 5 runs
 ```
+
+> **Note:** `students.csv` does not exist until you run the Topic 5 notebook — it is generated automatically by the code. `Student_performance_data.csv` and `student_data_dictionary.md` are already in the repository.
 
 ---
 
