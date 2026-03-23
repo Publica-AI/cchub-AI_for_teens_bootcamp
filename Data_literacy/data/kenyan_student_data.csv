@@ -1,0 +1,21 @@
+First_Name,Last_Name,Gender,Seat_No,City,Course_Track,PC_make,PC_Os,Feedback
+Brian,Otieno,Male,101,Nairobi,Data Science,HP,Windows,Good
+Aisha,Mwangi,Female,102,Mombasa,Cloud Computing,Dell,Linux,Excellent
+Daniel,Kiprotich,Male,103,Nakuru,Cybersecurity,HP,Windows,Excellent
+Collins,Omondi,Male,104,Kisumu,AI,Asus,Windows,Good
+Fatma,Hassan,Female,105,Garissa,Data Science,Apple,Linux,Poor
+Ibrahim,Mutua,Male,106,Eldoret,Cloud Computing,HP,MacOS,Excellent
+Njeri,Kamau,Female,107,Thika,Web Dev,Dell,Windows,Good
+Tom,Ndegwa,Male,108,Meru,AI,Lenovo,Linux,Average
+Kelvin,Cheruiyot,Male,109,Eldoret,Cybersecurity,Asus,MacOS,Good
+Yusuf,Abdi,Male,110,Meru,AI,Apple,Windows,Excellent
+Ada,Wambui,Female,111,Nairobi,Data Science,HP,Linux,Good
+Kevin,Mutiso,Male,112,Machakos,Web Dev,Dell,MacOS,Poor
+Mercy,Njenga,Female,113,Nairobi,Cybersecurity,Lenovo,Windows,Average
+Sammy,Korir,Male,114,Nakuru,AI,Asus,Linux,Excellent
+Zainab,Abdalla,Female,115,Mombasa,Cloud Computing,Dell,MacOS,Good
+Donald,Barasa,Male,116,Kisumu,Data Science,HP,Windows,Average
+Kendi,Njoki,Female,117,Eldoret,Web Dev,Dell,Linux,Excellent
+Hussein,Salim,Male,118,Kisii,Data Science,Lenovo,MacOS,Good
+Faith,Akinyi,Female,119,Kakamega,Data Science,Asus,Windows,Good
+Chalo,Mwangangi,Male,120,Kitale,Cloud Computing,Apple,Linux,Excellent
