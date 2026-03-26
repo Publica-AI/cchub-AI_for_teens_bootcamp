@@ -102,14 +102,66 @@ python -m venv venv
 source venv/bin/activate        # Mac / Linux
 venv\Scripts\activate           # Windows
 
-# 4. Install Jupyter
-pip install notebook
+# 4. Install all required packages
+pip install -r requirements.txt
 
 # 5. Launch Jupyter
 jupyter notebook
 ```
 
 A browser window will open. Click any folder, then click a `.ipynb` file to open it.
+
+---
+
+### 📦 What is requirements.txt?
+
+The `requirements.txt` file lists every Python package this course needs — things like `pandas`, `matplotlib`, `scikit-learn`, `tensorflow`, and more. Installing it once sets up everything for all sections.
+
+---
+
+### ⚠️ If You Get Version or Dependency Errors
+
+Sometimes packages clash with each other or with your Python version. Here are three ways to fix it:
+
+**Option A — Install without strict versions (most flexible)**
+
+Instead of pinning exact versions, install the packages by name only:
+
+```bash
+pip install pandas matplotlib seaborn scikit-learn tensorflow keras pillow requests openai jupyter notebook streamlit
+```
+
+This lets pip choose versions that work together on your machine.
+
+---
+
+**Option B — Use a fresh virtual environment**
+
+A clean environment avoids conflicts with anything already installed on your computer:
+
+```bash
+# Create a brand new environment
+python -m venv fresh_env
+
+# Activate it
+source fresh_env/bin/activate     # Mac / Linux
+fresh_env\Scripts\activate        # Windows
+
+# Install from requirements.txt
+pip install -r requirements.txt
+```
+
+---
+
+**Option C — Use conda (if you have Anaconda or Miniconda)**
+
+```bash
+conda create -n teens_ai python=3.10
+conda activate teens_ai
+pip install -r requirements.txt
+```
+
+> 💡 **Quick tip:** If one specific package fails, skip it and install the rest. Most notebooks will still work. Only install what that section actually needs.
 
 ---
 
@@ -255,6 +307,7 @@ cchub-AI_for_teens_bootcamp/
 │
 ├── README.md
 ├── LICENSE
+├── requirements.txt
 │
 ├── Intro_to_Python/
 │   ├── fundamental_programming_concepts.ipynb
