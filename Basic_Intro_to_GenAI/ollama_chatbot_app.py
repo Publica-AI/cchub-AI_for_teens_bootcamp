@@ -146,5 +146,5 @@ if user_input:  # only runs when the user has typed something and pressed Enter
         # 4. Display the AI's reply
         st.markdown(ai_reply)
 
-    # 5. Add the AI's reply to history so the AI 'remembers' it next time
+    ## 5. Add the AI's reply to history so the AI 'remembers' it next time
     st.session_state.messages.append({"role": "assistant", "content": ai_reply})

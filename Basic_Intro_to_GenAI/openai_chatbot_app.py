@@ -149,5 +149,5 @@ if user_input:
         # Display the reply
         st.markdown(ai_reply)
 
-    # Save to history
+    ## Save to history
     st.session_state.messages.append({"role": "assistant", "content": ai_reply})
